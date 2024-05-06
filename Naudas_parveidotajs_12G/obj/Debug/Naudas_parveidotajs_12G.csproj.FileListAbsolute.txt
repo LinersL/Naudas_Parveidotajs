@@ -1,0 +1,257 @@
+Z:\Programmesana12_2semestris\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\Naudas_parveidotajs_12G.exe.config
+Z:\Programmesana12_2semestris\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\Naudas_parveidotajs_12G.exe
+Z:\Programmesana12_2semestris\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\Naudas_parveidotajs_12G.pdb
+Z:\Programmesana12_2semestris\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\obj\Debug\Naudas_parveidotajs_12G.csprojAssemblyReference.cache
+Z:\Programmesana12_2semestris\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\obj\Debug\Naudas_parveidotajs_12G.Registracija.resources
+Z:\Programmesana12_2semestris\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\obj\Debug\Naudas_parveidotajs_12G.Pierakstisanas.resources
+Z:\Programmesana12_2semestris\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\obj\Debug\Naudas_parveidotajs_12G.Properties.Resources.resources
+Z:\Programmesana12_2semestris\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\obj\Debug\Naudas_parveidotajs_12G.csproj.GenerateResource.cache
+Z:\Programmesana12_2semestris\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\obj\Debug\Naudas_parveidotajs_12G.csproj.CoreCompileInputs.cache
+Z:\Programmesana12_2semestris\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\obj\Debug\Naudas_parveidotajs_12G.exe
+Z:\Programmesana12_2semestris\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\obj\Debug\Naudas_parveidotajs_12G.pdb
+Z:\Programmesana12_2semestris\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\SQLitePCLRaw.core.dll
+Z:\Programmesana12_2semestris\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Buffers.dll
+Z:\Programmesana12_2semestris\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Memory.dll
+Z:\Programmesana12_2semestris\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Numerics.Vectors.dll
+Z:\Programmesana12_2semestris\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+Z:\Programmesana12_2semestris\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Buffers.xml
+Z:\Programmesana12_2semestris\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Memory.xml
+Z:\Programmesana12_2semestris\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Numerics.Vectors.xml
+Z:\Programmesana12_2semestris\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+Z:\Programmesana12_2semestris\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\obj\Debug\Naudas_parveidotajs_12G.csproj.CopyComplete
+Z:\Programmesana12_2semestris\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\Azure.Core.dll
+Z:\Programmesana12_2semestris\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\Azure.Identity.dll
+Z:\Programmesana12_2semestris\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+Z:\Programmesana12_2semestris\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\Microsoft.Data.SqlClient.dll
+Z:\Programmesana12_2semestris\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\Microsoft.Identity.Client.dll
+Z:\Programmesana12_2semestris\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+Z:\Programmesana12_2semestris\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+Z:\Programmesana12_2semestris\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+Z:\Programmesana12_2semestris\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\Microsoft.IdentityModel.Logging.dll
+Z:\Programmesana12_2semestris\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+Z:\Programmesana12_2semestris\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Z:\Programmesana12_2semestris\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+Z:\Programmesana12_2semestris\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Configuration.ConfigurationManager.dll
+Z:\Programmesana12_2semestris\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+Z:\Programmesana12_2semestris\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+Z:\Programmesana12_2semestris\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.IO.FileSystem.AccessControl.dll
+Z:\Programmesana12_2semestris\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Memory.Data.dll
+Z:\Programmesana12_2semestris\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Security.AccessControl.dll
+Z:\Programmesana12_2semestris\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+Z:\Programmesana12_2semestris\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Security.Permissions.dll
+Z:\Programmesana12_2semestris\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Security.Principal.Windows.dll
+Z:\Programmesana12_2semestris\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Text.Encodings.Web.dll
+Z:\Programmesana12_2semestris\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Text.Json.dll
+Z:\Programmesana12_2semestris\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Threading.Tasks.Extensions.dll
+Z:\Programmesana12_2semestris\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.ValueTuple.dll
+Z:\Programmesana12_2semestris\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\Azure.Core.xml
+Z:\Programmesana12_2semestris\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\Azure.Identity.xml
+Z:\Programmesana12_2semestris\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+Z:\Programmesana12_2semestris\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\Microsoft.Data.SqlClient.xml
+Z:\Programmesana12_2semestris\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\Microsoft.Identity.Client.xml
+Z:\Programmesana12_2semestris\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+Z:\Programmesana12_2semestris\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+Z:\Programmesana12_2semestris\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+Z:\Programmesana12_2semestris\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\Microsoft.IdentityModel.Logging.xml
+Z:\Programmesana12_2semestris\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+Z:\Programmesana12_2semestris\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+Z:\Programmesana12_2semestris\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+Z:\Programmesana12_2semestris\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Configuration.ConfigurationManager.xml
+Z:\Programmesana12_2semestris\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+Z:\Programmesana12_2semestris\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+Z:\Programmesana12_2semestris\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.IO.FileSystem.AccessControl.xml
+Z:\Programmesana12_2semestris\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Memory.Data.xml
+Z:\Programmesana12_2semestris\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Security.AccessControl.xml
+Z:\Programmesana12_2semestris\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+Z:\Programmesana12_2semestris\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Security.Permissions.xml
+Z:\Programmesana12_2semestris\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Security.Principal.Windows.xml
+Z:\Programmesana12_2semestris\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Text.Encodings.Web.xml
+Z:\Programmesana12_2semestris\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Text.Json.xml
+Z:\Programmesana12_2semestris\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Threading.Tasks.Extensions.xml
+Z:\Programmesana12_2semestris\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.ValueTuple.xml
+Z:\Programmesana12_2semestris\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+Z:\Programmesana12_2semestris\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+Z:\Programmesana12_2semestris\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+Z:\Programmesana12_2semestris\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+Z:\Programmesana12_2semestris\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+Z:\Programmesana12_2semestris\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+Z:\Programmesana12_2semestris\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+Z:\Programmesana12_2semestris\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+Z:\Programmesana12_2semestris\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+Z:\Programmesana12_2semestris\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+Z:\Programmesana12_2semestris\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\EntityFramework.dll
+Z:\Programmesana12_2semestris\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\EntityFramework.SqlServer.dll
+Z:\Programmesana12_2semestris\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Data.SQLite.dll
+Z:\Programmesana12_2semestris\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Data.SQLite.EF6.dll
+Z:\Programmesana12_2semestris\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Data.SQLite.Linq.dll
+Z:\Programmesana12_2semestris\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\EntityFramework.xml
+Z:\Programmesana12_2semestris\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\EntityFramework.SqlServer.xml
+Z:\Programmesana12_2semestris\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Data.SQLite.xml
+C:\Users\liner\Downloads\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\obj\Debug\Naudas_parveidotajs_12G.csproj.AssemblyReference.cache
+C:\Users\liner\Downloads\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\obj\Debug\Naudas_parveidotajs_12G.Registracija.resources
+C:\Users\liner\Downloads\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\obj\Debug\Naudas_parveidotajs_12G.Pierakstisanas.resources
+C:\Users\liner\Downloads\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\obj\Debug\Naudas_parveidotajs_12G.Properties.Resources.resources
+C:\Users\liner\Downloads\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\obj\Debug\Naudas_parveidotajs_12G.csproj.GenerateResource.cache
+C:\Users\liner\Downloads\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\obj\Debug\Naudas_parveidotajs_12G.csproj.CoreCompileInputs.cache
+C:\Users\liner\Downloads\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\obj\Debug\Naudas_parveidotajs_12G.exe
+C:\Users\liner\Downloads\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\obj\Debug\Naudas_parveidotajs_12G.pdb
+C:\Users\liner\Downloads\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\Naudas_parveidotajs_12G.exe.config
+C:\Users\liner\Downloads\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\Naudas_parveidotajs_12G.exe
+C:\Users\liner\Downloads\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\Naudas_parveidotajs_12G.pdb
+C:\Users\liner\Downloads\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\Azure.Core.dll
+C:\Users\liner\Downloads\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\Azure.Identity.dll
+C:\Users\liner\Downloads\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\EntityFramework.dll
+C:\Users\liner\Downloads\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\liner\Downloads\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\liner\Downloads\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\liner\Downloads\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\liner\Downloads\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\liner\Downloads\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\liner\Downloads\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\liner\Downloads\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\liner\Downloads\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\liner\Downloads\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\liner\Downloads\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\liner\Downloads\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\liner\Downloads\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Buffers.dll
+C:\Users\liner\Downloads\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\liner\Downloads\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Data.SQLite.dll
+C:\Users\liner\Downloads\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\liner\Downloads\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\liner\Downloads\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\liner\Downloads\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\liner\Downloads\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\liner\Downloads\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Memory.Data.dll
+C:\Users\liner\Downloads\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Memory.dll
+C:\Users\liner\Downloads\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\liner\Downloads\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\liner\Downloads\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Security.AccessControl.dll
+C:\Users\liner\Downloads\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\liner\Downloads\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Security.Permissions.dll
+C:\Users\liner\Downloads\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\liner\Downloads\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\liner\Downloads\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Text.Json.dll
+C:\Users\liner\Downloads\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\liner\Downloads\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.ValueTuple.dll
+C:\Users\liner\Downloads\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\Azure.Core.xml
+C:\Users\liner\Downloads\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\Azure.Identity.xml
+C:\Users\liner\Downloads\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\EntityFramework.xml
+C:\Users\liner\Downloads\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\liner\Downloads\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\liner\Downloads\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\liner\Downloads\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\liner\Downloads\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\liner\Downloads\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\liner\Downloads\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\liner\Downloads\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\liner\Downloads\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\liner\Downloads\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\liner\Downloads\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\liner\Downloads\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Buffers.xml
+C:\Users\liner\Downloads\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\liner\Downloads\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Data.SQLite.xml
+C:\Users\liner\Downloads\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\liner\Downloads\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\liner\Downloads\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\liner\Downloads\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Memory.xml
+C:\Users\liner\Downloads\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Memory.Data.xml
+C:\Users\liner\Downloads\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\liner\Downloads\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\liner\Downloads\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Security.AccessControl.xml
+C:\Users\liner\Downloads\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\liner\Downloads\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Security.Permissions.xml
+C:\Users\liner\Downloads\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\liner\Downloads\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\liner\Downloads\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Text.Json.xml
+C:\Users\liner\Downloads\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\liner\Downloads\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.ValueTuple.xml
+C:\Users\liner\Downloads\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\liner\Downloads\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\liner\Downloads\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\liner\Downloads\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\liner\Downloads\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\liner\Downloads\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\liner\Downloads\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\liner\Downloads\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\liner\Downloads\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\liner\Downloads\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\liner\Downloads\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\obj\Debug\Naudas_parveidotajs_12G.csproj.CopyComplete
+C:\visual\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\Naudas_parveidotajs_12G.exe.config
+C:\visual\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\Naudas_parveidotajs_12G.exe
+C:\visual\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\Naudas_parveidotajs_12G.pdb
+C:\visual\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\Azure.Core.dll
+C:\visual\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\Azure.Identity.dll
+C:\visual\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\EntityFramework.dll
+C:\visual\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\EntityFramework.SqlServer.dll
+C:\visual\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\visual\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\Microsoft.Identity.Client.dll
+C:\visual\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\visual\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\visual\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\visual\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\visual\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\visual\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\visual\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\visual\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\SQLitePCLRaw.core.dll
+C:\visual\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Buffers.dll
+C:\visual\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\visual\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Data.SQLite.dll
+C:\visual\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Data.SQLite.EF6.dll
+C:\visual\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Data.SQLite.Linq.dll
+C:\visual\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\visual\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\visual\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\visual\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Memory.Data.dll
+C:\visual\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Memory.dll
+C:\visual\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Numerics.Vectors.dll
+C:\visual\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\visual\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Security.AccessControl.dll
+C:\visual\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\visual\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Security.Permissions.dll
+C:\visual\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Security.Principal.Windows.dll
+C:\visual\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Text.Encodings.Web.dll
+C:\visual\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Text.Json.dll
+C:\visual\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\visual\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.ValueTuple.dll
+C:\visual\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\Azure.Core.xml
+C:\visual\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\Azure.Identity.xml
+C:\visual\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\EntityFramework.xml
+C:\visual\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\EntityFramework.SqlServer.xml
+C:\visual\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\visual\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\Microsoft.Identity.Client.xml
+C:\visual\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\visual\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\visual\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\visual\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\visual\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\visual\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\visual\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\visual\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Buffers.xml
+C:\visual\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\visual\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Data.SQLite.xml
+C:\visual\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\visual\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\visual\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\visual\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Memory.xml
+C:\visual\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Memory.Data.xml
+C:\visual\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Numerics.Vectors.xml
+C:\visual\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\visual\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Security.AccessControl.xml
+C:\visual\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\visual\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Security.Permissions.xml
+C:\visual\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Security.Principal.Windows.xml
+C:\visual\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Text.Encodings.Web.xml
+C:\visual\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Text.Json.xml
+C:\visual\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\visual\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\System.ValueTuple.xml
+C:\visual\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\obj\Debug\Naudas_parveidotajs_12G.csproj.AssemblyReference.cache
+C:\visual\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\obj\Debug\Naudas_parveidotajs_12G.Registracija.resources
+C:\visual\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\obj\Debug\Naudas_parveidotajs_12G.Pierakstisanas.resources
+C:\visual\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\obj\Debug\Naudas_parveidotajs_12G.Properties.Resources.resources
+C:\visual\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\obj\Debug\Naudas_parveidotajs_12G.csproj.GenerateResource.cache
+C:\visual\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\obj\Debug\Naudas_parveidotajs_12G.csproj.CoreCompileInputs.cache
+C:\visual\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\obj\Debug\Naudas_parveidotajs_12G.csproj.CopyComplete
+C:\visual\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\obj\Debug\Naudas_parveidotajs_12G.exe
+C:\visual\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\obj\Debug\Naudas_parveidotajs_12G.pdb
+C:\visual\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\MySql.Data.dll
+C:\visual\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\obj\Debug\Naudas_parveidotajs_12G.Form3.resources
