@@ -33,11 +33,21 @@ namespace Naudas_parveidotajs_12G
                         SQLiteDataReader reader = command.ExecuteReader();
                         if (reader.Read())
                         {
-                            // Login successful, redirect to main form or perform other actions
+                            // Login successful, show appropriate form
                             MessageBox.Show("Login successful!");
-                            this.Hide();
-                            Form3 a1 = new Form3();
-                            a1.ShowDialog();
+
+                            // Check if admin login
+                            if (epasts == "admin@admin" && parole == "123456789")
+                            {
+                                Form4 b1 = new Form4();
+                                b1.ShowDialog();
+                            }
+                            else
+                            {
+                                Form3 a1 = new Form3();
+                                this.Hide();
+                                a1.ShowDialog();
+                            }
                         }
                         else
                         {
@@ -54,27 +64,31 @@ namespace Naudas_parveidotajs_12G
 
         private void button2_Click(object sender, EventArgs e)
         {
-            this.Hide();
+            // Show registration form
             Registracija a1 = new Registracija();
+            this.Hide();
             a1.ShowDialog();
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
+            // Show password in plaintext
             tXtParole.PasswordChar = '\0';
             button4.BringToFront();
         }
 
         private void button4_Click(object sender, EventArgs e)
         {
+            // Hide password characters
             tXtParole.PasswordChar = '*';
             button3.BringToFront();
         }
 
         private void button5_Click(object sender, EventArgs e)
         {
-            this.Hide();
+            // Show another instance of Form3
             Form3 a1 = new Form3();
+            this.Hide();
             a1.ShowDialog();
         }
     }

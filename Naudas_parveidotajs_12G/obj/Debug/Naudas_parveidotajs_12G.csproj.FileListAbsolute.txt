@@ -255,3 +255,4 @@ C:\visual\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotaj
 C:\visual\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\obj\Debug\Naudas_parveidotajs_12G.pdb
 C:\visual\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\bin\Debug\MySql.Data.dll
 C:\visual\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\obj\Debug\Naudas_parveidotajs_12G.Form3.resources
+C:\visual\Naudas_parveidotajs_12G (1)\Naudas_parveidotajs_12G\Naudas_parveidotajs_12G\obj\Debug\Naudas_parveidotajs_12G.Form4.resources
