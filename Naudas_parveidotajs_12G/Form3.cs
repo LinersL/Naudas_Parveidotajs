@@ -1,86 +1,77 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
 using System.Net.Http;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Naudas_parveidotajs_12G
 {
     public partial class Form3 : Form
     {
-        private readonly string apiKey = "4e69856cf5f256bd5d8fcc10ed7d69d9";
-        private readonly string apiUrl = "http://api.exchangeratesapi.io/v1/latest";
-
-
+        private const string ApiBaseUrl = "https://api.exchangeratesapi.io/latest";
         public Form3()
         {
             InitializeComponent();
+
+            // Populate currency dropdowns with common currencies
+            comboBoxSourceCurrency.Items.AddRange(new[] { "USD", "EUR", "GBP", "JPY" });
+            comboBoxTargetCurrency.Items.AddRange(new[] { "USD", "EUR", "GBP", "JPY" });
+
+            // Set default currencies
+            comboBoxSourceCurrency.SelectedItem = "USD";
+            comboBoxTargetCurrency.SelectedItem = "EUR";
         }
 
         private void Form3_Load(object sender, EventArgs e)
         {
 
         }
-       
-        private async Task buttonCallApi_ClickAsync(object sender, EventArgs e)
+        private async void buttonConvert_Click(object sender, EventArgs e)
         {
+            string sourceCurrency = comboBoxSourceCurrency.SelectedItem.ToString();
+            string targetCurrency = comboBoxTargetCurrency.SelectedItem.ToString();
+
+            if (string.IsNullOrEmpty(textBoxAmount.Text))
+            {
+                MessageBox.Show("Please enter a valid amount.");
+                return;
+            }
+
+            decimal amount;
+            if (!decimal.TryParse(textBoxAmount.Text, out amount))
+            {
+                MessageBox.Show("Please enter a valid amount.");
+                return;
+            }
+
             try
             {
+                string apiUrl = $"{ApiBaseUrl}?base={sourceCurrency}&symbols={targetCurrency}";
+
                 using (HttpClient client = new HttpClient())
                 {
-                    client.DefaultRequestHeaders.Add("Authorization", $"Bearer {apiKey}");
-
                     HttpResponseMessage response = await client.GetAsync(apiUrl);
+                    response.EnsureSuccessStatusCode();
 
-                    if (response.IsSuccessStatusCode)
-                    {
-                        string responseBody = await response.Content.ReadAsStringAsync();
-                        Console.WriteLine(responseBody);
-                        MessageBox.Show("API call successful. Check console output for response.");
-                    }
-                    else
-                    {
-                        MessageBox.Show($"Request failed with status code {response.StatusCode}");
-                    }
+                    string responseBody = await response.Content.ReadAsStringAsync();
+
+                    // Extract the exchange rate from the response body (assuming fixed response format)
+                    int startIndex = responseBody.IndexOf(targetCurrency) + targetCurrency.Length + 3;
+                    int endIndex = responseBody.IndexOf("}", startIndex);
+
+                    string exchangeRateStr = responseBody.Substring(startIndex, endIndex - startIndex);
+                    decimal exchangeRate = decimal.Parse(exchangeRateStr);
+
+                    decimal convertedAmount = amount * exchangeRate;
+
+                    labelResult.Text = $"{amount} {sourceCurrency} = {convertedAmount} {targetCurrency}";
                 }
             }
             catch (Exception ex)
             {
-                MessageBox.Show($"Error occurred: {ex.Message}");
+                MessageBox.Show($"Error: {ex.Message}");
             }
         }
+    
 
-        private async void buttonCallApi_Click(object sender, EventArgs e)
-        {
-            try
-            {
-                using (HttpClient client = new HttpClient())
-                {
-                    client.DefaultRequestHeaders.Add("Authorization", $"Bearer {apiKey}");
 
-                    HttpResponseMessage response = await client.GetAsync(apiUrl);
-
-                    if (response.IsSuccessStatusCode)
-                    {
-                        string responseBody = await response.Content.ReadAsStringAsync();
-                        Console.WriteLine(responseBody);
-                        MessageBox.Show("API call successful. Check console output for response.");
-                    }
-                    else
-                    {
-                        MessageBox.Show($"Request failed with status code {response.StatusCode}");
-                    }
-                }
-            }
-            catch (Exception ex)
-            {
-                MessageBox.Show($"Error occurred: {ex.Message}");
-            }
-        }
     }
 }
